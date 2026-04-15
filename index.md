@@ -303,7 +303,7 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="Planning">Schedule</h2>
+<h2 id="Planning">Planning</h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
