@@ -330,7 +330,7 @@ please preview your site before committing, and make sure to run
   heb je toegang nodig tot de onderstaande software. Daarnaast heb je een up-to-date internet browser nodig.
 </p>
 <p>
-  we onderhouden een lijst van veel voorkomende problemen tijdens installatie op de <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki pagina</a>.
+  We onderhouden een lijst van veel voorkomende problemen tijdens installatie op de <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki pagina</a>.
 </p>
 
 <p>
