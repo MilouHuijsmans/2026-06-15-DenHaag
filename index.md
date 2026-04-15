@@ -58,7 +58,6 @@ Sign up to receive future editions and read our full archive: <a href="https://c
   for their learners.
 </p>
 <p id="roles">
-  <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
@@ -361,7 +360,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-  
+  </br>
 </p>
 
 {% comment %}
