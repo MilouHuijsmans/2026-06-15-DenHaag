@@ -360,7 +360,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-  </br>
+  <br>
 </p>
 
 {% comment %}
